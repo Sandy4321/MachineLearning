@@ -10,8 +10,6 @@ package ml.algorithms;
  */
 public class LinearRegression {
  
-    ///Meaning any progress made here
-    ///Can actually be used with this implementation
     public static void main(String[] args) {
         System.out.println("And the journey actually begins");
     }
