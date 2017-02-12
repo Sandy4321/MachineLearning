@@ -1,6 +1,8 @@
 # MachineLearning
-As I upgrade my skills to master machine learning I The algorithms implemented here are done as part of my
-journey in understanding the subject
+The algorithms implemented here are done as part of my journey in understanding machine learning with a 
+goal of implementing as many as possible of the algorithms i encounter along the way
+
+This is gonna be fun!!!!
 
 
 #Goal
